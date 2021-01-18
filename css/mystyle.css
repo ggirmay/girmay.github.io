@@ -1,0 +1,87 @@
+body{
+    background: #CCC;
+}
+#Header a:Hover{
+    color: #CCC;
+}
+#bg-img{
+    background-size: 100%;
+    background: url('../img/background.jpg') repeat;
+    min-height: 500px;
+}
+
+/* Style all font awesome icons */
+.fa {
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    color: #3b5998;
+}
+
+/* Twitter */
+.fa-twitter {
+    color: #00acee;
+}
+.fa-linkedin {
+    color: #0e76a8;
+}
+.fa-github {
+    color: #211F1F;
+}
+#about{
+    margin-top: -300px;
+}
+#about span{
+    padding: 10px 20px 10px 20px ;
+}
+#about hr{
+    border-width: 3px;
+    margin-top: 06px;
+}
+#skills span{
+    padding: 10px 20px 10px 20px ;
+}
+#skills hr{
+    border-width: 3px;
+    margin-top: 06px;
+}
+#experience span{
+    padding: 10px 20px 10px 20px ;
+}
+#experience hr{
+    border-width: 3px;
+    margin-top: 06px;
+}
+#publication span{
+    padding: 10px 20px 10px 20px ;
+}
+#publication hr{
+    border-width: 3px;
+    margin-top: 06px;
+}
+#education span{
+    padding: 10px 20px 10px 20px ;
+}
+#education hr{
+    border-width: 3px;
+    margin-top: 06px;
+}
+#contact span{
+    padding: 10px 20px 10px 20px ;
+}
+#contact hr{
+    border-width: 3px;
+    margin-top: 06px;
+}
+
